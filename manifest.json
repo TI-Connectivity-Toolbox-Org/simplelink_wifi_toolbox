@@ -1,8 +1,0 @@
-{
-    "name":"Simplelink WiFi Toolbox",
-    "description":"The Wi-Fi toolbox package provides all the capabilities required to debug and monitor WLAN/Bluetooth® Low Energy firmware with a host, perform RF validation tests, run pretest for regulatory certification testing, and debug hardware and software platform integration issues.",
-    "version":"v1.0.0",
-    "supportedOS":{
-        "windows":"./simplelink-wifi-toolbox.exe"
-    }
-}
